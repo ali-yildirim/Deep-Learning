@@ -1,4 +1,4 @@
-# Deep-Learning
+# Deep Learning
 
 * Vectors, Matrices and Tensors
 * Activation Functions

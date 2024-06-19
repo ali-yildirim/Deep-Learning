@@ -2,4 +2,6 @@
 
 * Vectors, Matrices and Tensors
 * Activation Functions
-* CNN
+* Stochastic gradient descent
+* Backpropagation
+* MNIST Example

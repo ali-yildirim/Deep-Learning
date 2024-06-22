@@ -2,14 +2,12 @@
 
 <h3 align="center">Model</h3>
 
-<ul align="center">
-  <li><strong>Neurons:</strong> 2</li>
-  <li><strong>Activation Function(s):</strong> ReLU</li>
-  <li><strong>Input:</strong>  X </li>
-  <li><strong>Output:</strong> Y </li>
-  <li><strong>Weights:</strong>$$ w_1, w_2, w_3, w_4 $$</li>
-  <li><strong>Biases:</strong>$$  b_1, b_2, b_3 $$</li>
-</ul>
+Neurons: 2
+Activation Function(s): ReLU
+Input:X 
+Output: Y
+Weights: $$ w_1, w_2, w_3, w_4 $$
+Biases:> $$  b_1, b_2, b_3 $$
 
 <p align="center"><strong>Forward Pass:</strong></p>
 

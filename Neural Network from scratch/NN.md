@@ -12,7 +12,12 @@ In this project,  I created a simple network using numPy and other basic librari
 * Output: Y
 
 <p align="left">$$ \text{* Weights: }  w_1, w_2, w_3, w_4 $$</p>
-<p align="left">$$  \text{* Biases:} $$  b_1, b_2, b_3 $$</p>
+<p align="left">$$  \text{* Biases: }  b_1, b_2, b_3 $$</p>
+
+
+| **Weights:** | \( w_1, w_2, w_3, w_4 \) |
+|--------------|--------------------------|
+| **Biases:**  | \( b_1, b_2, b_3 \)      |
 
 <p align="left"><strong>Forward Pass:</strong></p>
 

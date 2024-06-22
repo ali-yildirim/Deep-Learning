@@ -1,19 +1,42 @@
-<h3 style="text-align: center;">Model</h3>
+# A Simple Neural Network for Linear Regression
 
-<ul class="centered-list" style="text-align: center;">
-  <li><strong> Neurons:</strong> 2</li>
-  <li><strong> Activation Function(s):</strong> ReLU</li>
-  <li><strong> Input:</strong> \( X \)</li>
-  <li><strong> Output:</strong> \( Y \)</li>
-  <li><strong> Weights:</strong> \( w_1, w_2, w_3, w_4 \)</li>
-  <li><strong> Biases:</strong> \( b_1, b_2, b_3 \)</li>
-</ul>
+In this README, I'll explain a simple neural network using the libraries in Python.
 
-<p style="text-align: center;"><strong>Forward Pass:</strong></p>
+## Model
 
-<p style="text-align: center;">$$ a = x \cdot w_1 + b_1 $$</p>
-<p style="text-align: center;">$$ b = x \cdot w_2 + b_2 $$</p>
+<details>
+<summary><strong>Details</strong></summary>
 
-<p style="text-align: center;"><strong>Output:</strong></p>
+<details>
+<summary><strong>Neurons:</strong> 2</summary>
 
-<p style="text-align: center;">$$ \hat{y} = \text{ReLU}(a) \cdot w_3 + \text{ReLU}(b) \cdot w_4 + b_3 $$</p>
+- **Activation Function(s):** ReLU
+- **Input:** \( X \)
+- **Output:** \( Y \)
+- **Weights:** \( w_1, w_2, w_3, w_4 \)
+- **Biases:** \( b_1, b_2, b_3 \)
+</details>
+
+<details>
+<summary><strong>Forward Pass:</strong></summary>
+
+$$
+a = x \cdot w_1 + b_1
+$$
+
+$$
+b = x \cdot w_2 + b_2
+$$
+
+</details>
+
+<details>
+<summary><strong>Output:</strong></summary>
+
+$$
+\hat{y} = \text{ReLU}(a) \cdot w_3 + \text{ReLU}(b) \cdot w_4 + b_3
+$$
+
+</details>
+
+</details>
